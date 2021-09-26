@@ -1,0 +1,2 @@
+pefile==2021.9.3
+speakeasy-emulator==1.5.2
